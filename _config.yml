@@ -1,7 +1,7 @@
 name: architect
 favicon: null
-layout_spectrum: 0.3093511101324111
-typography_spectrum: 0.5476621056441218
+layout_spectrum: 0.30452
+typography_spectrum: 0.19311
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.2722658487036824
-  lightness: 0.044862650567665696
-  saturation: 0.9158499708864838
-  rhythmicContrast: 0.7477755295112729
+    - '#000002'
+    - '#475562'
+    - '#aa8853'
+    - '#a4aab6'
+    - '#e3bd82'
+  brandStrength: 0.875
+  lightness: 0.3125
+  saturation: 0.4375
+  rhythmicContrast: 0.5
 purpose: []
