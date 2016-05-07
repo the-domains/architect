@@ -1,7 +1,7 @@
 name: ocean
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.23268
+layout_spectrum: 0.10338
+typography_spectrum: 0.76363
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#ffffff'
-    - '#2f52ac'
-    - '#62dce7'
-    - '#39a6c5'
-  brandStrength: 0.875
-  lightness: 0.375
-  saturation: 1
+    - '#070c2a'
+    - '#dc3282'
+    - '#722867'
+    - '#608396'
+    - '#3f569c'
+  brandStrength: 0.9375
+  lightness: 0.9375
+  saturation: 0.5
   rhythmicContrast: 0.75
 purpose: []
