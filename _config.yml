@@ -1,7 +1,7 @@
-name: architect
+name: ocean
 favicon: null
-layout_spectrum: 0.30452
-typography_spectrum: 0.19311
+layout_spectrum: 0
+typography_spectrum: 0.23268
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000002'
-    - '#475562'
-    - '#aa8853'
-    - '#a4aab6'
-    - '#e3bd82'
+    - '#000000'
+    - '#ffffff'
+    - '#2f52ac'
+    - '#62dce7'
+    - '#39a6c5'
   brandStrength: 0.875
-  lightness: 0.3125
-  saturation: 0.4375
-  rhythmicContrast: 0.5
+  lightness: 0.375
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
