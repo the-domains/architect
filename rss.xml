@@ -4,8 +4,15 @@
         <description><![CDATA[architect]]></description>
         <link>https://thegrid.ai/architect/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 16:44:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2016 16:44:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/architect/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Test]]></title>
+            <description><![CDATA[<article><h1>Test</h1><p>Derde afbeelding.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d40ea0ea-d1ea-4a69-b7b9-c8d6bb57279e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/architect/test/index.html</link>
+            <guid isPermaLink="false">b51183e6-ccba-4138-bc34-794f33de17fd</guid>
+            <pubDate>Sat, 07 May 2016 16:44:49 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1e3eb0c6-d115-45d5-9c50-af1b88175335.jpg">]]></description>
